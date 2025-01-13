@@ -29,7 +29,7 @@ export default function Cart() {
         <button onClick={Decrease}>-</button>
       </div>
       <div>
-        <div> Item 1</div>
+        <div> Item 2</div>
         <div> Quantity = {quantity}</div>
         <div>Price = {price[1]}</div>
         <button onClick={Increase}>+</button>
